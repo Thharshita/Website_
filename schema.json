@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Shiv Shakti Interior",
+  "image": "https://yourwebsite.com/logo.png",
+  "@id": "https://yourwebsite.com",
+  "url": "https://yourwebsite.com",
+  "telephone": "+91-88980-25189",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "postalCode": "",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 19.0760,
+    "longitude": 72.8777
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  },
+  "sameAs": [
+    "https://www.instagram.com/shiv_shakti_interior"
+  ],
+  "description": "Premier Interior Contractor & Turnkey Contracting in Mumbai. Expert in Painting, Civil Work, AC Installation, Electrical, Carpentry, POP, Polish, Tiles, and Complete Interior Solutions.",
+  "areaServed": {
+    "@type": "City",
+    "name": "Mumbai"
+  },
+  "serviceType": [
+    "Interior Design",
+    "Turnkey Contracting",
+    "Painting Services",
+    "Civil Work",
+    "AC Installation",
+    "Electrical Work",
+    "Carpentry",
+    "POP Work",
+    "Polishing",
+    "Tiles Installation",
+    "False Ceiling"
+  ]
+}
